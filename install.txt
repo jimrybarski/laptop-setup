@@ -10,6 +10,7 @@ cmus
 curl 
 dconf-cli 
 dialog
+feh
 ffmpeg 
 fonts-noto-mono
 fonts-firacode
@@ -24,6 +25,7 @@ i3blocks
 i3lock
 i3status
 lib32z1-dev 
+libaio1
 libappindicator1 
 libbz2-dev 
 libc6:i386 
@@ -45,6 +47,7 @@ nodejs
 npm
 oathtool
 pass 
+parallel
 pkg-config 
 python-apt 
 python-dev 

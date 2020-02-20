@@ -1,5 +1,6 @@
 #!/bin/bash
 
+apt install ffmpeg
 # Install youtube-dl in a virtualenv and install a cronjob to keep it up-to-date
 
 sudo -u jim mkdir -p $HOME/.local/bin
